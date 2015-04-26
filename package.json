@@ -1,0 +1,22 @@
+{
+  "name": "pulpojs",
+  "version": "0.0.0",
+  "description": "Multiprocess test runner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielkocsan/pulpojs.git"
+  },
+  "author": "daniel.kocsan.hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkocsan/pulpojs/issues"
+  },
+  "homepage": "https://github.com/danielkocsan/pulpojs",
+  "dependencies": {
+    "deferred": "^0.7.2"
+  }
+}
